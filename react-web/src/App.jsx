@@ -7,7 +7,7 @@ import {
 } from "lucide-react";
 import CalendarView from "./Calendar";
 import CamView from "./CamView";
-import CatalogView from "./catalogView";
+import CatalogView from "./CatalogView";
 
 const App = () => {
   const [activeTab, setActiveTab] = useState('dashboard');
